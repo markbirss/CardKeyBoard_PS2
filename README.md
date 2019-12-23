@@ -1,5 +1,7 @@
 # CardKeyBoard PS/2 interface version
 
+https://twitter.com/n602_na/status/1106859496498847750?lang=eu
+
 ![利用例](./image/top.jpg)  
 
 ## Introduction
