@@ -136,3 +136,9 @@ http://nuneno.cocolog-nifty.com/blog/2019/03/m5stackcardkb-2.html
 http://nuneno.cocolog-nifty.com/blog/2019/03/m5stackcardkb-1.html
 
 ![利用例](./image/6bf99ee08a257a1099f91e98c902c246c8549970.jpeg)
+
+https://www.geewiz.co.za/cables-adapters-accessories/33145-unbranded-ps2tousb-ps2-male-to-usb-female.html?sfdr_ptcid=2961_617_121776039&sfdr_hash=1b35995fb520923392eb57b89e499c4e&gclid=EAIaIQobChMIh8XCyrXL5gIV2OJ3Ch3LSQQmEAQYASABEgI6l_D_BwE
+
+
+https://www.geewiz.co.za/usb-cables/33359-add-on-usb2ps2-keyboard-mouse-adapter-cable-.html
+
