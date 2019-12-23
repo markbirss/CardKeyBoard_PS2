@@ -134,3 +134,5 @@ Akizuki electrons " cable mounting USB connector (A type male) ," the use was Ex
 # URL
 http://nuneno.cocolog-nifty.com/blog/2019/03/m5stackcardkb-2.html
 http://nuneno.cocolog-nifty.com/blog/2019/03/m5stackcardkb-1.html
+
+![利用例](./image/6bf99ee08a257a1099f91e98c902c246c8549970.jpeg)
