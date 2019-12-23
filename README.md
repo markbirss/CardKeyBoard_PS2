@@ -142,3 +142,9 @@ https://www.geewiz.co.za/cables-adapters-accessories/33145-unbranded-ps2tousb-ps
 
 https://www.geewiz.co.za/usb-cables/33359-add-on-usb2ps2-keyboard-mouse-adapter-cable-.html
 
+https://www.takealot.com/lindy-usb-female-to-ps2-male-adapter/PLID32845594
+
+https://www.cables.co.za/usb-to-ps2-adaptor.html
+
+
+
