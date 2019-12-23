@@ -1,4 +1,4 @@
-# CardKeyBoard PS / 2 interface version
+# CardKeyBoard PS/2 interface version
 
 ![利用例](./image/top.jpg)  
 
