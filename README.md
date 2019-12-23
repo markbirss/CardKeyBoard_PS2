@@ -146,5 +146,33 @@ https://www.takealot.com/lindy-usb-female-to-ps2-male-adapter/PLID32845594
 
 https://www.cables.co.za/usb-to-ps2-adaptor.html
 
+# Local
+Our Location
+Crown Hyper World
+Crown Hyper World
+11 Mineral Crescent, Crown Mines, Johannesburg, 2025
+Telephone
++27 (0)11 830 1452
+
+Fax
++27 (0)11 830 1484
+Opening Times
+Mon - Thur 08:30 to 13:00
+14:00 to 16:00
+Friday 08:30 to 12:00
+13:30 to 16:00
+Saturday 08:30 to 13:00
+Sunday Closed
+
+USBTPS2 @ R 10.01
+http://www.crownhyperworld.co.za/index.php?route=product/product&product_id=230&search=PS2&category_id=0&page=2
+
+PS2 EXT @ R 15.00
+http://www.crownhyperworld.co.za/index.php?route=product/product&product_id=1234&search=PS2&category_id=0
+
+usbtps2c @ R25
+http://www.crownhyperworld.co.za/index.php?route=product/product&product_id=1412&search=PS2&category_id=0&page=2
+
+
 
 
