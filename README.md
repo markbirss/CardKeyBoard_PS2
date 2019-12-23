@@ -67,7 +67,7 @@ following key assignments are newly added.
 |[PageDown]	|[↓]＋[Fn]
 |[End]|[→]＋[Fn]
 
-[F1] to [F10] are function keys.  
+[F1] to [F10] are function keys.   
 
 
 ## Prepare libraries required for compiling sketches
