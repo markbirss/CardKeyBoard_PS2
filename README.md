@@ -77,10 +77,10 @@ Adafruit NeoPixel Library Search and install "Adafruit NeoPixel" in the library 
 - ps2dev (Emulating a PS2 device)
  [PS2 mouse interface for Arduino](http://playground.arduino.cc/ComponentLib/Ps2mouse)
  
-Click and download Attach: ps2dev.zip at the bottom from PS2 mouse interface for Arduino .
-Unzip and place it under libraries in your Arduino environment .
-Open ps2dev.cpp in an editor, modify it #include "WProgram.h"to #include "Arduino.h", and save it.
-Open ps2dev.h in an editor, #include "WConstants.h"comment out ( //#include "WConstants.h") and save.
+- Click and download **Attach: ps2dev.zip** at the bottom from PS2 mouse interface for Arduino .
+- Unzip and place it under libraries in your Arduino environment .
+- **Open ps2dev.cpp** in an editor, modify it #include "WProgram.h"to #include "Arduino.h", and save it.
+- **Open ps2dev.h** in an editor, #include "WConstants.h"comment out ( //#include "WConstants.h") and save.
 
 ## Write firmware
 Compile the attached sketch with Arduino IDE or write the compiled image file CardKeyBoard.ino.hex in the
