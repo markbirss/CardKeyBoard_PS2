@@ -174,5 +174,8 @@ usbtps2c @ R25
 http://www.crownhyperworld.co.za/index.php?route=product/product&product_id=1412&search=PS2&category_id=0&page=2
 
 
+![1](./image/utb8ca12xnixkjksaluq6r4u0o.jpg) 
+
+![2](./image/utb8hs1xdnjxkjksaiyq6zbuyb.jpg) 
 
 
