@@ -85,7 +85,6 @@ Open ps2dev.h in an editor, #include "WConstants.h"comment out ( //#include "WCo
 Compile the attached sketch with Arduino IDE or write the compiled image file CardKeyBoard.ino.hex in the
 bin folder using a tool such as avrdude . Programmers should use what they are accustomed to.
 
-
 (Caution) Do not change the fuse bit.
 If you are using ProgIsp , please disable the default Program Fuse setting.
 
@@ -99,6 +98,7 @@ Since the board does not have a bootloader, writing by a programmer (ArduinoISP,
 Programmers should use what they are accustomed to.
 
 Specifications of ICSP terminal on board
+
 ![ICSP](./image/01.png)  
 
 By inserting a jumper into the above terminal, writing can be done simply by connecting.
