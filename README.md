@@ -1,8 +1,8 @@
-#CardKeyBoard PS / 2 interface version
+# CardKeyBoard PS / 2 interface version
 
 ![利用例](./image/top.jpg)  
 
-##Introduction
+## Introduction
 This software is a firmware that makes CardKeyBoard for M5stak compatible with PS / 2 interface.
 It is intended for use on microcomputer boards that use a PS / 2 keyboard. The operation with
 IchigoJam V1.3 and Toyoshiki Tiny BASIC for Arduino STM32 V0.87 has been confirmed.
@@ -104,9 +104,11 @@ Specifications of ICSP terminal on board
 By inserting a jumper into the above terminal, writing can be done simply by connecting.
 (Please use a device such as fixing with tape)
 
-![ICSP](./image/06.jpg) ![CISP](./image/08.jpg)  
+![ICSP](./image/06.jpg) 
+![CISP](./image/08.jpg)  
 
 Example using USBtinyISP as a programmer
+
 ![ICSP](./image/07.jpg)  
 
 Writing of the IDE menu [Sketch] - [writing using the writing device] in,
@@ -114,13 +116,16 @@ compile the sketch, writes.
 
 Example of mounting a simple cable to connect via USB connector
 This is an example of mounting a simple cable using a USB terminal (male) and jumper wires (male-male). 
+
 ![ICSP](./image/10.jpg)
 
 Usage example of Toyoshiki Tiny BASIC for Arduino STM32 V0.87 
+
 ![ICSP](./image/11.jpg)
 
 Akizuki electrons " cable mounting USB connector (A type male) ," the use was Example
 (reinforcing the root with heat shrinkable tube + Ties)
 
 ![ICSP](./image/14.jpg)  
+
 ![ICddSP](./image/15.jpg) 
